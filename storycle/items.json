@@ -1,0 +1,17 @@
+{
+	"skin-1": {
+		"label": "News Portal — 24 Storycle",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/kaskad88/layout_panel/master/images/default/default.png",
+		"img-small": "https://raw.githubusercontent.com/kaskad88/layout_panel/master/images/default/default-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/storycle/"
+	},
+
+	"skin-2": {
+		"label": "Personal Blog — Alice Burton",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/kaskad88/layout_panel/master/images/personal/personal.png",
+		"img-small": "https://raw.githubusercontent.com/kaskad88/layout_panel/master/images/personal/personal-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/personal/"
+	}
+}
