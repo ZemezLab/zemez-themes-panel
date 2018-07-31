@@ -6,12 +6,95 @@
 		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/default/default-small.png",
 		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/storycle/"
 	},
-
 	"skin-2": {
 		"label": "Personal Blog — Alice Burton",
 		"filter": "skins",
 		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/personal/personal.png",
 		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/personal/personal-small.png",
 		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/personal/"
+	},
+	"skin-3": {
+		"label": "Lifestyle — Slife",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/slife/slife.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/slife/slife-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/lifestyle/"
+	},
+	"skin-4": {
+		"label": "Fashion Blog — Fashion Daily",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/fashion/fashion.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/fashion/fashion-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/fashion/"
+	},
+	"skin-5": {
+		"label": "Sports — ChampionNews",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/sport/sport.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/sport/sport-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/sport/"
+	},
+	"skin-6": {
+		"label": "Tech Blog — Techguide",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/tech/tech.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/tech/tech-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/tech/"
+	},
+	"skin-7": {
+		"label": "Crypto-currency Blog— Cryprate",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/cryprate/cryprate.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/cryprate/cryprate-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/cryprate/"
+	},
+	"skin-8": {
+		"label": "Photographer Blog — Photto",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/photto/photto.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/photto/photto-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/photto/"
+	},
+	"skin-9": {
+		"label": "Corporate Blog — Investory",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/investory/investory.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/investory/investory-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/investory/"
+	},
+	"skin-10": {
+		"label": "Woman Blog — Feminine",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/famelle/famelle.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/famelle/famelle-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/famelle/"
+	},
+	"skin-11": {
+		"label": "Travel Blog — Voyagin",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/voyagin/voyagin.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/voyagin/voyagin-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/voyagin/"
+	},
+	"skin-12": {
+		"label": "Architecture — Imagicy",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/imagicy/imagicy.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/imagicy/imagicy-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/imagicy/"
+	},
+	"skin-13": {
+		"label": "Newspaper — Publicon",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/publicon/publicon.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/publicon/publicon-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/publicon/"
+	},
+	"skin-14": {
+		"label": "Recipe — Gastronomix",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/gastronomix/gastronomix.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/storycle/images/gastronomix/gastronomix-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_blog_multipurpose/gastronomix/"
 	}
 }
