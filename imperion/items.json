@@ -1,0 +1,73 @@
+{
+	"skin-1": {
+		"label": "Imperion",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/default/default.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/default/default-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/imperion_v1/"
+	},
+
+	"skin-2": {
+		"label": "Imperion Digital",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/digital/digital.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/digital/digital-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/digital_v1/"
+	},
+
+	"skin-3": {
+		"label": "Imperion Experience",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/experience/experience.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/experience/experience-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/experience_v1/"
+	},
+
+	"skin-4": {
+		"label": "Imperion Finance",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/finance/finance.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/finance/finance-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/finance_v1/"
+	},
+
+	"skin-5": {
+		"label": "Imperion Presentation",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/presentation/presentation.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/presentation/presentation-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/presentation_v1/"
+	},
+
+	"skin-6": {
+		"label": "Imperion Shop",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/shop/shop.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/shop/shop-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/shop_v1/"
+	},
+
+	"skin-7": {
+		"label": "Imperion Blog",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/blog/blog.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/blog/blog-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/blog_v1/"
+	},
+
+	"skin-8": {
+		"label": "Imperion Cryptocurrency",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/cryptocurrency/cryptocurrency.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/cryptocurrency/cryptocurrency-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/cryptocurrency_v1/"
+	},
+
+	"skin-9": {
+		"label": "Imperion Corporate Landing",
+		"filter": "skins",
+		"img": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/corporatelanding/corporatelanding.png",
+		"img-small": "https://raw.githubusercontent.com/ZemezLab/zemez-themes-panel/master/imperion/images/corporatelanding/corporatelanding-small.png",
+		"link": "https://ld-wp.template-help.com/wordpress_imperion/corporatelanding_v1/"
+	}
+}
